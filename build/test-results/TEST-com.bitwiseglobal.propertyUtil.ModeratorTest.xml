@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bitwiseglobal.propertyUtil.ModeratorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2016-03-10T07:10:18" hostname="HRPRDS" time="0.048">
+  <properties/>
+  <testcase name="itShouldReturnCorrectProduct" classname="com.bitwiseglobal.propertyUtil.ModeratorTest" time="0.035"/>
+  <testcase name="itShouldReturnCorrectSub" classname="com.bitwiseglobal.propertyUtil.ModeratorTest" time="0.003"/>
+  <testcase name="itShouldReturnCorrectSum" classname="com.bitwiseglobal.propertyUtil.ModeratorTest" time="0.002"/>
+  <testcase name="itShouldReturnCorrectDivide" classname="com.bitwiseglobal.propertyUtil.ModeratorTest" time="0.003"/>
+  <testcase name="itShouldReturnCorrectModulo" classname="com.bitwiseglobal.propertyUtil.ModeratorTest" time="0.003"/>
+  <system-out><![CDATA[enter into function
+400
+enter into function
+-30
+enter into function
+1
+enter into function
+0
+enter into function
+10
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
